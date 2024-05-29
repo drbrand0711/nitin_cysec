@@ -1,0 +1,2 @@
+#define MAX_I2C_MESSAGE_LEN 255
+#define COMPONENT_CNT 1
